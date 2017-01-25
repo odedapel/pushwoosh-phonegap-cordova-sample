@@ -9,4 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+	<gap:plugin name="pushwoosh-pgb-plugin" source="npm" spec="6.3.0" />
 </widget>
